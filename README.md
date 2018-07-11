@@ -10,7 +10,7 @@ I had prior work experience as developer at Rheem Manufacturing.
 
 ### Special Skills
 
-![Image](ION_ALERT)UI/UX Design
+![Image]()UI/UX Design
 Python
 Java
 HTML

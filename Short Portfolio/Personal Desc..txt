@@ -1,0 +1,10 @@
+My name is Marvin Malek Royal. I am Software Engineering student at Auburn University. 
+I had prior work experience as developer at Rheem Manufacturing.
+
+Special Skills:
+
+UI/UX Design
+Python
+Java
+HTML
+SQL

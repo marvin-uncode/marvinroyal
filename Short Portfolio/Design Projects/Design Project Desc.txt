@@ -1,0 +1,4 @@
+These were UI designs created for the purpose of a prototype project for companys app,
+the black list. These designs may be considered when finalizing the final look of the app.
+
+*Please edit as needed*

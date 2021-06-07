@@ -1,5 +1,7 @@
-My name is Marvin Malek Royal. I am Software Engineering student at Auburn University. 
-I had prior work experience as developer at Rheem Manufacturing.
+My name is Marvin Malek Royal. I am a recent Software Engineering graduate from Auburn University. 
+I had prior work experience as developer at Rheem Manufacturing as well as a Cyber Security analyst for the student SOC at Auburn.
+
+Pleasure to meet you!
 
 Special Skills:
 
@@ -8,3 +10,5 @@ Python
 Java
 HTML
 SQL
+C++
+C#
